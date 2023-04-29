@@ -1,0 +1,3 @@
+In the context of Data Science Big Data, generate 15 relatively straightforward random multiple choice questions on Spark
+that would suit a first year Data Science university student. 
+Put the answers at the end.
