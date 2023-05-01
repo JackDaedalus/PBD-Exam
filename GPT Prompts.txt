@@ -1,3 +1,11 @@
 In the context of Data Analytics and Big Data, what does HDFS stand for?
 In the context of Data Analytics and Big Data, what is the role of the combiner in MapReduce?
 In the context of Data Analytics and Big Data, how many default partitions are created by the Hadoop MapReduce framework?
+Which of the following is NOT a core component of the Hadoop ecosystem? 
+A) HDFS
+
+B) MapReduce
+
+C) Hive
+
+D) YARN
